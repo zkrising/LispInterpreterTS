@@ -1,0 +1,8 @@
+{
+	"plugins": [
+		"cadence"
+	],
+	"extends": [
+		"plugin:cadence/recommended"
+	]
+}
